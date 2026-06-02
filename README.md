@@ -26,7 +26,7 @@ El modelo de datos da soporte completo a la gestión de inventario por sedes, hi
 ---
 
 ## 📂 Estructura del Repositorio
-Siguiendo rigurosamente las pautas de entrega exigidas, los recursos están organizados de la siguiente manera:
+Los recursos están organizados de la siguiente manera:
 
 ```text
 mi-proyecto-nexshop/
